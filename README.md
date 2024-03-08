@@ -8,13 +8,13 @@ Ett remote repo med de filer som finns i det här repot skapas. Följ stegen ned
 
 1. Öppna ett terminalfönster, t.ex. ``` git bash```
 2. Använd ```cd``` (change directory = byt mapp) för att förflytta dig till den mapp du vill lägga koden i. Du kan skapa en ny mapp direkt i terminalen genom att skriva ```mkdir nya-mappens-namn ``` när du orienterat dig till den plats du vill att den nya mappen ska vara.
-3. Kör ```git init``` för att skapa ett nytt, tomt lokalt repo.
-4. Kör ```git clone länk-till-ditt-repo-slutar-på-.git ```
-5. Koden som fanns på GitHub bör nu finnas i din mapp lokalt på datorn. Använd ```ls ``` i terminalen för att se att den inte längre är tom.
-6. Testa att redigera en fil eller skapa en ny.
-7. Skriv ```git add .```i terminalen. Alla filer följs nu av git.
-8. Skriv ```git commit -m "my first commit"```i terminalen. git har nu noterat de förändringar som skett med filerna. (Detta gör du varje gång du vill spara dina ändringar - endast den lokala delen påverkas).
-9. Skriv ```git push``` i terminalen. Du har nu skickat dina uppdateringar till GitHub. Uppdatera web-sidan för att dubbelkolla att dina ändringar syns. (Detta gör du varje gång du vill att dina ändringar ska sparas på GitHubs hemsida)
+3. Kör ```git clone länk-till-ditt-repo-slutar-på-.git ``` 
+4. Koden som fanns på GitHub bör nu finnas i din mapp lokalt på datorn. Använd ```ls ``` i terminalen för att se att den inte längre är tom.
+5. Testa att redigera en fil eller skapa en ny. (Genom att köra ```code filnamn``` i terminalen kan du öppna en fil i visual studio code direkt från terminalen, om du skriver ett filnamn som inte redan finns så kommer en ny fil att skapas. Du kan göra samma sak med andra program men detta kräver att du vet vad programmets _cmdlet_ är)
+6. Skriv ```git add .```i terminalen. Alla filer följs nu av git. (Detta gör du varje gång du har skapat nya filer som du vill följa, OBS! Om du byter ut . mot ett filnamn så läggs bara den specifika filen till.)
+7. Skriv ```git commit -m "my first commit"```i terminalen. git har nu noterat de förändringar som skett med filerna. (Detta gör du varje gång du vill spara dina ändringar - endast den lokala delen påverkas).
+8. Skriv ```git push``` i terminalen. Du har nu skickat dina uppdateringar till GitHub. Uppdatera web-sidan för att dubbelkolla att dina ändringar syns. (Detta gör du varje gång du vill att dina ändringar ska sparas på GitHubs hemsida).
+9. Testa nu att göra en ändring i ditt remota repo (på GitHub). Gå tillbaka till terminalen och skriv ```git pull```. Din lokala kod uppdateras nu så att den matchar de ändringar du gjort online. Dubbelkolla att det blivit rätt! (Detta gör du varje gång du vill få ned de ändringar som gjorts online till ditt lokala repo. T.ex. om du själv redigerat direkt på GitHub, om du arbetat från en annan dator eller om du arbetar i grupp och någon annan har uppdaterat koden.)
 
 
 
