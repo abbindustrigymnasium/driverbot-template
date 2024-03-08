@@ -1,6 +1,9 @@
 # Driverbot template
 I det här repot hittar ni exempel kod att utgå från samt instruktioner när ni kodar i ert projekt.
 
+## GitHub
+Acceptera uppgiften på [https://classroom.github.com/a/cqxgjh7K](https://classroom.github.com/a/cqxgjh7K).
+
 ## Mikrokontroller
 ### Koppla och testa!
 Bilden nedan visar hur du ska koppla motorn till din esp.
