@@ -10,6 +10,11 @@ Ett remote repo med de filer som finns i det här repot skapas. Följ stegen ned
 2. Använd ```cd``` (change directory = byt mapp) för att förflytta dig till den mapp du vill lägga koden i. Du kan skapa en ny mapp direkt i terminalen genom att skriva ```mkdir nya-mappens-namn ``` när du orienterat dig till den plats du vill att den nya mappen ska vara.
 3. Kör ```git init``` för att skapa ett nytt, tomt lokalt repo.
 4. Kör ```git clone länk-till-ditt-repo-slutar-på-.git ```
+5. Koden som fanns på GitHub bör nu finnas i din mapp lokalt på datorn. Använd ```ls ``` i terminalen för att se att den inte längre är tom.
+6. Testa att redigera en fil eller skapa en ny.
+7. Skriv ```git add .```i terminalen. Alla filer följs nu av git.
+8. Skriv ```git commit -m "my first commit"```i terminalen. git har nu noterat de förändringar som skett med filerna. (Detta gör du varje gång du vill spara dina ändringar - endast den lokala delen påverkas).
+9. Skriv ```git push``` i terminalen. Du har nu skickat dina uppdateringar till GitHub. Uppdatera web-sidan för att dubbelkolla att dina ändringar syns. (Detta gör du varje gång du vill att dina ändringar ska sparas på GitHubs hemsida)
 
 
 
