@@ -9,7 +9,7 @@ Ett remote repo med de filer som finns i det här repot skapas. Följ stegen ned
 1. Öppna ett terminalfönster, t.ex. ``` git bash```
 2. Använd ```cd``` (change directory = byt mapp) för att förflytta dig till den mapp du vill lägga koden i. Du kan skapa en ny mapp direkt i terminalen genom att skriva ```mkdir nya-mappens-namn ``` när du orienterat dig till den plats du vill att den nya mappen ska vara.
 3. Kör ```git init``` för att skapa ett nytt, tomt lokalt repo.
-4. 
+4. Kör ```git clone länk-till-ditt-repo-slutar-på-.git ```
 
 
 
