@@ -7,7 +7,7 @@ Bilden nedan visar hur du ska koppla motorn till din esp.
 ![image](https://github.com/abbindustrigymnasium/driverbot-template/assets/22837762/703aad4b-4015-4c4a-9739-1644a61969b3)
 
 ### Koda
-När du löser uppgifterna nedan utgår du från koden i <filnamn>. Börja med att planera dina lösningar mha psuedokod och/eller diagram innan du skriver den faktiska koden.
+När du löser uppgifterna nedan utgår du från koden i _motorTest.ino_. Börja med att planera dina lösningar mha psuedokod och/eller diagram innan du skriver den faktiska koden.
 
 1. Läs och tolka koden - vad tror du att den gör? Kommentera i filen. Testa att köra koden för att kontrollera dina antaganden.
 2. Koden fungerar inte helt som vi tänkt oss, vi vill att den ska byta körriktning efter 2200 millisekunder och efter 2200 byter igen. I nuläget kör den bara åt ett hål, lös det! Utgå från det du lärde dig om koden i steg 1 och experimentera vid behov vidare genom att ändra olika värden för att se vad varje del gör.
