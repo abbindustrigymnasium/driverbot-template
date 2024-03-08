@@ -2,7 +2,16 @@
 I det här repot hittar ni exempel kod att utgå från samt instruktioner när ni kodar i ert projekt.
 
 ## GitHub
-Acceptera uppgiften på [https://classroom.github.com/a/cqxgjh7K](https://classroom.github.com/a/cqxgjh7K).
+Acceptera uppgiften på [https://classroom.github.com/a/cqxgjh7K](https://classroom.github.com/a/cqxgjh7K). 
+
+Ett remote repo med de filer som finns i det här repot skapas. Följ stegen nedan för att skapa ett lokalt repo, koppla det till ditt nya remota repo och hämta ned de filer som finns i ditt nya remota repo.
+
+1. Öppna ett terminalfönster, t.ex. ``` git bash```
+2. Använd ```cd``` (change directory = byt mapp) för att förflytta dig till den mapp du vill lägga koden i. Du kan skapa en ny mapp direkt i terminalen genom att skriva ```mkdir nya-mappens-namn ``` när du orienterat dig till den plats du vill att den nya mappen ska vara.
+3. Kör ```git init``` för att skapa ett nytt, tomt lokalt repo.
+4. 
+
+
 
 ## Mikrokontroller
 ### Koppla och testa!
