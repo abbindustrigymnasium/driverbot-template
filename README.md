@@ -39,6 +39,8 @@ Drivetest(motorPinRightDir, motorPinRightSpeed);
 ## MQTT
 Jobba utifrån [denna Sway](https://sway.cloud.microsoft/4wekNvX2nqSH0zCX?ref=email&loc=play). 
 
+GitHub repository med exempelkod att arbeta utifrån hittar ni [här](https://github.com/hitachigjoafli/ExempelMQTTkod).
+
 ## VUE
 Exempelkod i VUE för att skapa en hemsida som driverboten kan styras via finns [här](https://github.com/abbindustrigymnasium/Driverbot/tree/master/Hemsida).
 1. Utgå från koden ovan och testa att styra din bil. OBS! Ni behöver konfigurera koden i ```Driverbot.ino``` så att den pekar mot er broker.
