@@ -17,7 +17,7 @@ Ett remote repo med de filer som finns i det här repot skapas. Följ stegen ned
 9. Testa nu att göra en ändring i ditt remota repo (på GitHub). Gå tillbaka till terminalen och skriv ```git pull```. Din lokala kod uppdateras nu så att den matchar de ändringar du gjort online. Dubbelkolla att det blivit rätt! (Detta gör du varje gång du vill få ned de ändringar som gjorts online till ditt lokala repo. T.ex. om du själv redigerat direkt på GitHub, om du arbetat från en annan dator eller om du arbetar i grupp och någon annan har uppdaterat koden.)
 
 ### Credentials
-Har problem med credentials (du får en prompt om att ange dina inloggningsuppgifter, när du gör detta får du ett felmeddelande om att github inte längre tillåter den typen av inloggning)? Följ stegen nedan (urklipp från [https://github.com/abbindustrigymnasium/testuppgift-f-r-github-vning-grupp-sofies-team](repot med github-instruktioner). Titta i det länkade repot för mer stöd kring detta.
+Har problem med credentials (du får en prompt om att ange dina inloggningsuppgifter, när du gör detta får du ett felmeddelande om att github inte längre tillåter den typen av inloggning)? Följ stegen nedan (urklipp från [https://github.com/abbindustrigymnasium/testuppgift-f-r-github-vning-grupp-sofies-team](repot med github-instruktioner). Titta i det länkade repot för mer stöd kring git/github.
 
 -------------------------------------------------------------------------
 ![image](https://github.com/abbindustrigymnasium/driverbot-template/assets/22837762/e457c941-0d7c-405a-b843-d89fb9292fe0)
