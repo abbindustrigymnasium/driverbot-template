@@ -6,7 +6,7 @@ Acceptera uppgiften på [https://classroom.github.com/a/cqxgjh7K](https://classr
 
 Ett remote repo med de filer som finns i det här repot skapas. Följ stegen nedan för att skapa ett lokalt repo, koppla det till ditt nya remota repo och hämta ned de filer som finns i ditt nya remota repo.
 
-1. Öppna ett terminalfönster, t.ex. ``` git bash```
+1. Öppna ett terminalfönster, t.ex. ``` git bash``` eller ```powershell```
 2. Använd ```cd``` (change directory = byt mapp) för att förflytta dig till den mapp du vill lägga koden i. Du kan skapa en ny mapp direkt i terminalen genom att skriva ```mkdir nya-mappens-namn ``` när du orienterat dig till den plats du vill att den nya mappen ska vara.
 3. Kör ```git clone länk-till-ditt-repo-slutar-på-.git ``` 
 4. Koden som fanns på GitHub bör nu finnas i din mapp lokalt på datorn. Använd ```ls ``` i terminalen för att se att den inte längre är tom.
@@ -16,6 +16,12 @@ Ett remote repo med de filer som finns i det här repot skapas. Följ stegen ned
 8. Skriv ```git push``` i terminalen. Du har nu skickat dina uppdateringar till GitHub. Uppdatera web-sidan för att dubbelkolla att dina ändringar syns. (Detta gör du varje gång du vill att dina ändringar ska sparas på GitHubs hemsida).
 9. Testa nu att göra en ändring i ditt remota repo (på GitHub). Gå tillbaka till terminalen och skriv ```git pull```. Din lokala kod uppdateras nu så att den matchar de ändringar du gjort online. Dubbelkolla att det blivit rätt! (Detta gör du varje gång du vill få ned de ändringar som gjorts online till ditt lokala repo. T.ex. om du själv redigerat direkt på GitHub, om du arbetat från en annan dator eller om du arbetar i grupp och någon annan har uppdaterat koden.)
 
+### Credentials
+Har problem med credentials (du får en prompt om att ange dina inloggningsuppgifter, när du gör detta får du ett felmeddelande om att github inte längre tillåter den typen av inloggning)? Följ stegen nedan (urklipp från [https://github.com/abbindustrigymnasium/testuppgift-f-r-github-vning-grupp-sofies-team](repot med github-instruktioner). Titta i det länkade repot för mer stöd kring detta.
+
+-------------------------------------------------------------------------
+![image](https://github.com/abbindustrigymnasium/driverbot-template/assets/22837762/e457c941-0d7c-405a-b843-d89fb9292fe0)
+-------------------------------------------------------------------------
 
 
 ## Mikrokontroller
