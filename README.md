@@ -47,12 +47,19 @@ Jobba utifrån [denna Sway](https://sway.cloud.microsoft/4wekNvX2nqSH0zCX?ref=em
 
 GitHub repository med exempelkod att arbeta utifrån hittar ni [här](https://github.com/hitachigjoafli/ExempelMQTTkod).
 
-## VUE
-Exempelkod i VUE för att skapa en hemsida som driverboten kan styras via finns [här](https://github.com/abbindustrigymnasium/Driverbot/tree/master/Hemsida).
-1. Utgå från koden ovan och testa att styra din bil. OBS! Ni behöver konfigurera koden i ```Driverbot.ino``` så att den pekar mot er broker.
+## Hemsida
+Exempelkod för att skapa en hemsida som driverboten kan styras via finns tillgänglig både med VUE och Svelte.
+1. Utgå från koden ovan och testa att styra din bil. OBS! Ni behöver konfigurera koden så att den pekar mot er broker.
 2. För högre betyg än godkänt: modifiera den befintliga koden för att på något sätt förbättra resultatet eller bygg en egen hemsida.
 
 Tips på fördjupningar för högre betyg (mer avancerade problem):
 - Skapa en karta över driverbotens rörelse för att illustrera hur den har kört
 - Byt ut den typ av input som ges via hemsidan till t.ex. en form som driverboten ska följa eller en punkt den ska köra till
+Exempelkod för Svelte för att skapa en hemsida som d
+
+### Svelte
+Exempelkod med Svelte finns [här](https://github.com/hitachigjoafli/Svelte_Starter/blob/main/guide_svelte.md).
+### VUE
+Exempelkod med VUE finns [här](https://github.com/abbindustrigymnasium/Driverbot/tree/master/Hemsida).
+
 
